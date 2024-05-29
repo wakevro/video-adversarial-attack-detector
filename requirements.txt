@@ -1,0 +1,7 @@
+opencv-contrib-python
+matplotlib
+natsort
+numpy
+scikit-learn
+pillow
+tensorflow

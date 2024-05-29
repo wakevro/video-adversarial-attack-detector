@@ -1,0 +1,5 @@
+.DS_Store
+results/
+__pycache__/
+helpers/__pycache__/
+attacked_indexes.txt
